@@ -1,0 +1,6 @@
+flask==2.0.2
+flask_cors==3.0.10
+flask_httpauth==4.5.0
+xlrd==2.0.1
+openpyxl==3.0.9
+pandas==1.1.5

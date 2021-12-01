@@ -1,0 +1,2 @@
+(this["webpackJsonpunfpa-front"]=this["webpackJsonpunfpa-front"]||[]).push([[148],{1327:function(e,t,o){"use strict";o.r(t),o.d(t,"s",(function(){return p}));var r,n,s,u=o(651),a={exports:{}};r=a,n=a.exports,void 0!==(s=function(e,t){Object.defineProperty(t,"__esModule",{value:!0}),t.default={"Zoom Out":"Oddiali\u0165","From %1 to %2":"Z %1 do %2","From %1":"Z %1","To %1":"Do %1"}}(u.a,n))&&(r.exports=s);var c=Object(u.c)(a.exports),p=Object.freeze(Object.assign(Object.create(null),a.exports,{default:c}))}}]);
+//# sourceMappingURL=148.16add111.chunk.js.map

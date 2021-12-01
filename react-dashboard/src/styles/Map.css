@@ -1,0 +1,36 @@
+.mapDiv {
+  padding: 0;
+  margin: 0;
+  height: 50%;
+  width: 50%;
+}
+.t-container {
+  margin: 0 auto;
+}
+.t-tabs{
+  list-style-type: none;
+  margin: 0;
+  box-sizing: border-box;
+}
+.t-tabs li {
+  color: #dedede;
+  padding: 0.5em 0.7em;
+  text-decoration: none;
+  float: left;
+  text-align: center;
+  font-size: 1.1em;
+  background: #717171;
+  border-bottom: 0;
+  min-width: 100px;
+  margin-right: 2px;
+  margin-bottom: 0 !important;
+  box-sizing: border-box;
+}
+.t-tabs li:hover {
+  background-color: #545454;
+  color: #d2d2d2;
+}
+.t-tabs li.selected {
+  color: #458ace;
+  background: #333;
+}
